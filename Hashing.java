@@ -58,3 +58,27 @@ class Solution {
         return maxlen;
     }
 }
+
+//Intersectio of two arrays                //mid
+class Solution {
+    public int[] intersection(int[] nums1, int[] nums2) {
+        HashSet<Integer> hs = new HashSet<>();
+        HashSet<Integer> res = new HashSet<>();
+
+        for(int i =0; i < nums1.length; i++){
+            hs.add(nums1[i]);
+        }
+
+        for(int num : nums2){
+            if(hs.contains(num)){
+                res.add(num);
+            }
+        }
+        int []result = new int[res.size()];
+        int index =0;
+        for(int num : res){
+            result[index++] = num;
+        }
+        return result;
+    }
+}
