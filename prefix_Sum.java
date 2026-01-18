@@ -34,3 +34,28 @@ class Solution {
         return count;
     }
 }
+
+
+//Continuous Subarray Sum                medium
+
+class Solution {
+    public boolean checkSubarraySum(int[] nums, int k) {
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        int sum = 0;
+        hm.put(0,-1);
+        for(int i =0; i<nums.length; i++){
+            sum += nums[i];
+            int remainder = sum % k;
+
+            if(hm.containsKey(remainder)){
+                if(i - hm.get(remainder) > 1){
+                    return true;
+                }
+            }
+            else{
+                hm.put(remainder,i);
+            }
+        }
+        return false;
+    }
+}
