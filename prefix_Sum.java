@@ -59,3 +59,23 @@ class Solution {
         return false;
     }
 }
+
+
+//Find middle Index                                //easy
+class Solution {
+    public int findMiddleIndex(int[] nums) {
+       int total =0;
+    for(int num : nums){
+        total += num;
+    } 
+    int left_sum = 0;
+    for(int i =0; i < nums.length; i++){
+        int right_sum = total - left_sum - nums[i];
+        if(left_sum == right_sum){
+            return i;
+        }
+        left_sum += nums[i];
+    }
+    return -1;
+    }
+}
