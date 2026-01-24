@@ -125,3 +125,25 @@ class Solution {
             return count;
     }
 }
+
+
+//Contigious array                        //medium
+class Solution {
+    public int findMaxLength(int[] nums) {
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        int zero =0; int one = 0; int maxLen =0;
+
+        hm.put(0 , -1);
+        for(int i=0; i < nums.length; i++){
+            if(nums[i] ==0) zero++; else one++;
+            int diff = zero - one;
+
+            if(hm.containsKey(diff)){
+                maxLen = Math.max(maxLen, i - hm.get(diff));
+            }else{
+                hm.put(diff,i);
+            }
+        }
+        return maxLen;
+    }
+}
