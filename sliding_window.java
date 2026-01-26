@@ -18,27 +18,7 @@ class Solution {
     }
 }
 
-//Maximum Sum of Distinct Subarrays With Length K
 
-class Solution {
-    public long maximumSubarraySum(int[] nums, int k) {
-       Set<Integer> s = new HashSet<>();
-       long max=0, sum =0;
-       int left = 0;
-       for(int i=0; i<nums.length; i++){
-        while(s.contains(nums[i]) || s.size() == k){
-            s.remove(nums[left]);
-            sum -= nums[left++];
-        }
-        sum += nums[i];
-        s.add(nums[i]);
-        if(s.size() == k){
-            max = Math.max(max,sum);
-        }
-       }
-       return max;
-    }
-} 
 
 
 
@@ -62,4 +42,24 @@ class Solution {
         return maxlen;
     }
 }
-                      
+
+
+
+//Minimum Size Subarray Sum
+
+class Solution {
+    public int minSubArrayLen(int target, int[] nums) {
+        int n = nums.length;
+        int left = 0, currsum =0;
+        int minLen = n + 1;
+        for(int right =0; right < n; right++){
+            currsum += nums[right];
+            while(currsum >= target){
+                minLen = Math.min(minLen , right -left + 1); //currlen = right - left + 1
+                currsum -= nums[left++];
+            }
+        }
+        //if minLen is not updated it is as same as intialize at the begining return 0 else return minLen
+        return minLen == n + 1 ? 0 : minLen;
+    }
+}
