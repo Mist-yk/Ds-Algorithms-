@@ -1,3 +1,47 @@
+//1732. Find the Highest Altitude                               //easy
+class Solution {
+    public int largestAltitude(int[] gain) {
+        int [] prefix = new int[gain.length +1];
+        int max =0;
+        prefix[0] = 0;
+        for(int i =1; i <= gain.length; i++){
+            prefix[i] = prefix[i -1] + gain[i - 1];
+            if(prefix[i] > max) max = prefix[i];
+        }
+        return max;
+    }
+}
+//1854. Maximum Population Year                               //easy
+class Solution {
+    public int maximumPopulation(int[][] logs) {
+        int[] diff = new int[101]; // 1950 to 2050
+
+        // Step 1: build difference array
+        for (int[] log : logs) {
+            diff[log[0] - 1950] += 1;  // birth
+            diff[log[1] - 1950] -= 1;  // death (exclusive)
+        }
+
+        int maxPop = 0;
+        int currPop = 0;
+        int year = 1950;
+
+        // Step 2: prefix sum to find max population
+        for (int i = 0; i < diff.length; i++) {
+            currPop += diff[i];
+
+            if (currPop > maxPop) {
+                maxPop = currPop;
+                year = 1950 + i;
+            }
+        }
+
+        return year;
+    }
+}
+
+
+
 //Range Sum Query - Immutable                                 //easy
 class NumArray {
     private int[] prefix_arr;
