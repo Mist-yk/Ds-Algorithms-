@@ -200,3 +200,25 @@ class Solution {
 }
 
 
+//corporate flight booking
+class Solution {
+    public int[] corpFlightBookings(int[][] bookings, int n) {
+        int []res = new int[n];
+       for(int [] b : bookings){
+        int first = b[0] ;
+        int last = b[1];
+        int seat = b[2];
+        res[first -1] += seat;//array index starts from 0 and first is 1;
+        if(last < n) res[last] -= seat;  //Only subtract if the stop index exists inside the array.
+                                         //array form[10,25]                             
+       }
+       //then apply running sum
+       for(int i =1; i < n ; i++){
+        res[i] += res[i-1];
+       }
+       return res;
+
+    }
+}
+
+
