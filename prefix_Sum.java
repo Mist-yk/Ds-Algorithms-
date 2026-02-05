@@ -200,7 +200,7 @@ class Solution {
 }
 
 
-//corporate flight booking
+//corporate flight booking                                                mid(only for name logic was hard for me)
 class Solution {
     public int[] corpFlightBookings(int[][] bookings, int n) {
         int []res = new int[n];
@@ -221,4 +221,25 @@ class Solution {
     }
 }
 
+
+//1524. Number of Sub-arrays With Odd Sum                                                mid
+class Solution {
+    public int numOfSubarrays(int[] arr) {
+        int mod = 1000000007;
+        int odd =0 , even = 1;
+        int sum =0;
+        int result = 0;
+        for(int i =0; i < arr.length; i++){
+            sum += arr[i];
+            if(sum % 2 == 1){
+                result = (result + even)% mod;
+                odd++;
+            }else{
+                result = (result + odd) %mod;
+                even++;
+            }
+        }
+        return result;       
+    }
+}
 
