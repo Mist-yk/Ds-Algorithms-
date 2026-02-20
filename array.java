@@ -22,3 +22,25 @@ class Solution {
         }
     }
 }
+
+
+//Greedy algo             the idea is to take farthest and current end where u can reach and then iterate and update farthest ,if i reach the cuurend we update currend and increase jump
+
+class Solution {
+    public int minJumps(int[] arr) {
+        // code here
+        int jump =0;
+        int currend =0;
+        int farthest = 0;
+        
+        for(int i =0; i <arr.length -1; i++){
+            farthest = Math.max(farthest, i + arr[i]);
+            
+            if(i == currend){
+                jump++;
+                currend = farthest;
+            }
+        }
+        return jump;
+    }
+}
