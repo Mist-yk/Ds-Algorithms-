@@ -11,6 +11,7 @@ Problem solving
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ Problem solving
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
