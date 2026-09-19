@@ -27,6 +27,7 @@ Problem solving
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -40,4 +41,20 @@ Problem solving
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
