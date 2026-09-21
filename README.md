@@ -57,4 +57,12 @@ Problem solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
