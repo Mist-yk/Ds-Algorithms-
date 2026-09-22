@@ -11,6 +11,7 @@ Problem solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -39,11 +40,13 @@ Problem solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
