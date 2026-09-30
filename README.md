@@ -10,6 +10,7 @@ Problem solving
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
@@ -41,6 +42,7 @@ Problem solving
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
@@ -50,6 +52,7 @@ Problem solving
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
@@ -75,6 +78,7 @@ Problem solving
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
@@ -92,4 +96,8 @@ Problem solving
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
