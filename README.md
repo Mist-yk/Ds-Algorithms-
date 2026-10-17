@@ -17,11 +17,13 @@ Problem solving
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -100,4 +102,12 @@ Problem solving
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 <!---LeetCode Topics End-->
