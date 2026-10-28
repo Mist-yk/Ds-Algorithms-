@@ -12,6 +12,7 @@ Problem solving
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
@@ -81,6 +82,7 @@ Problem solving
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
@@ -105,6 +107,7 @@ Problem solving
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Prefix Sum
 |  |
