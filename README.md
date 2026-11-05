@@ -10,6 +10,7 @@ Problem solving
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -22,6 +23,7 @@ Problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/0621-task-scheduler) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Mist-yk/Ds-Algorithms-/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
